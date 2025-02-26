@@ -1,8 +1,8 @@
-const SkillsCard_xx = () => {
+const SkillsCard_68 = () => {
   return (
     <article>
-      <h1>SkillsCard_xx</h1>
+      <h1>SkillsCard_68</h1>
     </article>
   );
 };
-export default SkillsCard_xx;
+export default SkillsCard_68;

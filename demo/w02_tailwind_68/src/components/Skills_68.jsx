@@ -1,8 +1,8 @@
-const Skills_xx = () => {
+const Skills_68 = () => {
   return (
     <section>
-      <h1>Skills_xx</h1>
+      <h1>Skills_68</h1>
     </section>
   );
 };
-export default Skills_xx;
+export default Skills_68;
