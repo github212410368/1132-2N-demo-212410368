@@ -1,5 +1,5 @@
 export const metadata: Metadata = {
-  title: 'tku_xx',
+  title: 'tku_68',
 };
 
 export default function RootLayout({
