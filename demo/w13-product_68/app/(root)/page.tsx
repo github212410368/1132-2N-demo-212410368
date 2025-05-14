@@ -6,7 +6,7 @@ const delay = (ms: number) =>
   });
 
 const HomePage_68 = async () => {
-  await delay(5000);
+  // await delay(5000);
   return <div>home</div>;
 };
 
