@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@prisma/extension-accelerate": "^2.0.1"
+  }
+}
